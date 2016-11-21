@@ -13,7 +13,7 @@
 			android:title="@string/pref_username"
 			android:summary="@string/pref_username_summary"/>
 		<EditTextPreference
-			android:key="password"
+			android:key="passwordj"
 			android:password="true"
 			android:title="@string/pref_password"
 			android:summary="@string/pref_password_summary"/>
